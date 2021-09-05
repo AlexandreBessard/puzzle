@@ -1,4 +1,9 @@
 body {
     font-family: 'Lobster Two', cursive;
     font-family: 'Vollkorn', serif;
+    background: linear-gradient(
+        to left,
+        rgb(252, 252, 252) 0%,
+        rgb(136, 96, 96) 100%
+      );
 }
