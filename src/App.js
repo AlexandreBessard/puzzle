@@ -15,7 +15,7 @@ function App() {
       <Switch>
       <Route exact path='/' component={HomePage} />
       <Route exact path='/puzzle/' component={HomePage} />
-      <Route excat path='/puzzle/puzzle-detail/' component={PuzzlePage} />
+      <Route exact path='/puzzle/puzzle-detail/' component={PuzzlePage} />
       </Switch>
     </div>
   );
