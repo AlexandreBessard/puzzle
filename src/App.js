@@ -14,8 +14,8 @@ function App() {
       {/* Switch will not render /puzzle1 even it is a match but without the 'exact'  */}
       <Switch>
       <Route exact path='/' component={HomePage} />
-      <Route exact path='/puzzle' component={HomePage} />
-      <Route path='/puzzle/puzzle-detail' component={PuzzlePage} />
+      <Route exact path='/puzzle/' component={HomePage} />
+      <Route excat path='/puzzle/puzzle-detail/' component={PuzzlePage} />
       </Switch>
     </div>
   );
