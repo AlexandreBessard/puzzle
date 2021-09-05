@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/puzzle/static/css/main.f91dbe48.chunk.css",
-    "main.js": "/puzzle/static/js/main.c507915c.chunk.js",
-    "main.js.map": "/puzzle/static/js/main.c507915c.chunk.js.map",
+    "main.css": "/puzzle/static/css/main.717cb48c.chunk.css",
+    "main.js": "/puzzle/static/js/main.39c4627c.chunk.js",
+    "main.js.map": "/puzzle/static/js/main.39c4627c.chunk.js.map",
     "runtime-main.js": "/puzzle/static/js/runtime-main.e42d90b1.js",
     "runtime-main.js.map": "/puzzle/static/js/runtime-main.e42d90b1.js.map",
     "static/js/2.4b6cdf85.chunk.js": "/puzzle/static/js/2.4b6cdf85.chunk.js",
     "static/js/2.4b6cdf85.chunk.js.map": "/puzzle/static/js/2.4b6cdf85.chunk.js.map",
     "index.html": "/puzzle/index.html",
-    "static/css/main.f91dbe48.chunk.css.map": "/puzzle/static/css/main.f91dbe48.chunk.css.map",
+    "static/css/main.717cb48c.chunk.css.map": "/puzzle/static/css/main.717cb48c.chunk.css.map",
     "static/js/2.4b6cdf85.chunk.js.LICENSE.txt": "/puzzle/static/js/2.4b6cdf85.chunk.js.LICENSE.txt",
-    "static/media/image_1.711fdf58.jpg": "/puzzle/static/media/image_1.711fdf58.jpg",
-    "static/media/image_2.0002e319.jpg": "/puzzle/static/media/image_2.0002e319.jpg",
-    "static/media/image_3.4becadeb.jpg": "/puzzle/static/media/image_3.4becadeb.jpg"
+    "static/media/image_1.711fdf58.jpg": "/puzzle/static/media/image_1.711fdf58.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e42d90b1.js",
     "static/js/2.4b6cdf85.chunk.js",
-    "static/css/main.f91dbe48.chunk.css",
-    "static/js/main.c507915c.chunk.js"
+    "static/css/main.717cb48c.chunk.css",
+    "static/js/main.39c4627c.chunk.js"
   ]
 }
