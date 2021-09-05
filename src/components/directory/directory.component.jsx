@@ -15,7 +15,7 @@ class Directory extends React.Component {
                 image: image1,
                 size: 'small',
                 id: 1,
-                linkUrl: '/puzzle-detail' 
+                linkUrl: '/shop' 
             }]
         }
     }
