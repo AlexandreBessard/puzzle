@@ -4,7 +4,7 @@ import {Switch, Route} from 'react-router-dom';
 
 const PuzzlePage = () => (
   <div>
-    <div>PUZZLE 1 IN DETAILS</div>
+    <div>LIST OF ALL PUZZLES DISPLAY HERE</div>
   </div>
 )
 
