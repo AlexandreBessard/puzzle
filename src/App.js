@@ -1,9 +1,23 @@
 import './App.css';
 import HomePage from './pages/homepage/homepage.component';
+import {Switch, Route} from 'react-router-dom';
+
+const PuzzlePage = () => (
+  <div>
+    <div>PUZZLE 1 IN DETAILS</div>
+  </div>
+)
 
 function App() {
   return (
-    <HomePage />
+    <div>
+      {/* Switch will not render /puzzle1 even it is a match but without the 'exact'  */}
+      <Switch>
+      <Route exact path='/' component={HomePage} />
+      <Route exact path='/puzzle' component={HomePage} />
+      <Route path='/puzzle-detail' component={PuzzlePage} />
+      </Switch>
+    </div>
   );
 }
 
