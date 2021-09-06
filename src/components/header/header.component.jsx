@@ -5,17 +5,17 @@ import './header.styles.scss';
 
 const Header = () => (
   <div className='header'>
-    <Link className='logo-container' to='/puzzle'>
+    <Link className='logo-container' to='/puzzle/'>
       <Logo className='logo' />
     </Link>
     <div className='options'>
       <Link className='option' to='/puzzle/shop'>
         SHOP
       </Link>
-      <Link className='option' to='/puzzle'>
+      <Link className='option' to='/puzzle/'>
         BLOG
       </Link>
-      <Link className='option' to='/puzzle'>
+      <Link className='option' to='/puzzle/'>
         CONTACT
       </Link>
     </div>
