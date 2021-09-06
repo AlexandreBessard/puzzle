@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/puzzle/static/css/main.6dbe3c79.chunk.css",
-    "main.js": "/puzzle/static/js/main.c07afec5.chunk.js",
-    "main.js.map": "/puzzle/static/js/main.c07afec5.chunk.js.map",
+    "main.js": "/puzzle/static/js/main.4c5e038f.chunk.js",
+    "main.js.map": "/puzzle/static/js/main.4c5e038f.chunk.js.map",
     "runtime-main.js": "/puzzle/static/js/runtime-main.e42d90b1.js",
     "runtime-main.js.map": "/puzzle/static/js/runtime-main.e42d90b1.js.map",
     "static/js/2.61cffd0f.chunk.js": "/puzzle/static/js/2.61cffd0f.chunk.js",
@@ -12,14 +12,14 @@
     "static/js/2.61cffd0f.chunk.js.LICENSE.txt": "/puzzle/static/js/2.61cffd0f.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/puzzle/static/media/crown.3a4e2b15.svg",
     "static/media/image_1.711fdf58.jpg": "/puzzle/static/media/image_1.711fdf58.jpg",
-    "static/media/image_2.0002e319.jpg": "/puzzle/static/media/image_2.0002e319.jpg",
-    "static/media/image_3.4becadeb.jpg": "/puzzle/static/media/image_3.4becadeb.jpg",
-    "static/media/image_4.0d7d4355.jpg": "/puzzle/static/media/image_4.0d7d4355.jpg"
+    "static/media/image_2_reduced.8e9ce2fa.jpg": "/puzzle/static/media/image_2_reduced.8e9ce2fa.jpg",
+    "static/media/image_3_reduced.1e7fb78c.jpg": "/puzzle/static/media/image_3_reduced.1e7fb78c.jpg",
+    "static/media/image_4_reduced.5e32a487.jpg": "/puzzle/static/media/image_4_reduced.5e32a487.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e42d90b1.js",
     "static/js/2.61cffd0f.chunk.js",
     "static/css/main.6dbe3c79.chunk.css",
-    "static/js/main.c07afec5.chunk.js"
+    "static/js/main.4c5e038f.chunk.js"
   ]
 }
