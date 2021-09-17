@@ -13,7 +13,7 @@ import './header.styles.scss';
 
 const Header = ({ currentUser, hidden }) => (
   <div className='header'>
-    <Link className='logo-container' to='/puzzle'>
+    <Link className='logo-container' to='/puzzle/'>
       <Logo className='logo' />
     </Link>
     <div className='options'>

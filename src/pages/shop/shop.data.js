@@ -13,19 +13,19 @@ const SHOP_DATA = [
                 id: 1,
                 name: 'Puzzle Model 1',
                 imageUrl: image2,
-                price: '30$'
+                price: 30
             },
             {
                 id: 2,
                 name: 'Puzzle Model 2',
                 imageUrl: image3,
-                price: '25$'
+                price: 25
             },
             {
                 id: 3,
                 name: 'Puzzle Model 3',
                 imageUrl: image4,
-                price: '35$'
+                price: 35
             }
         ]
     }
