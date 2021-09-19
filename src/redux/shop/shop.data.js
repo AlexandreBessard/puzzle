@@ -2,7 +2,6 @@ import image2 from '../../images/image_2_reduced.jpg';
 import image3 from '../../images/image_3_reduced.jpg';
 import image4 from '../../images/image_4_reduced.jpg';
 
-
 const SHOP_DATA = [
     {
         id: 1,
