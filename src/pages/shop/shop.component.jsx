@@ -2,7 +2,8 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 
 import CollectionsOverview from '../../components/collections-overview/collections-overview.component';
-import CollectionPage from '../category/collection.component';
+import CollectionPage from '../collection/collection.component';
+
 //Route from App.js to render ShopPage pass params to the props automatically (match, location...)
 const ShopPage = ({ match }) => (
     <div className='shop-page'>

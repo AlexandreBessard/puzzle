@@ -6,7 +6,7 @@ const SHOP_DATA = [
     {
         id: 1,
         title: 'Puzzles',
-        routeName: 'puzzle-detail',
+        routeName: 'puzzle',
         items: [
             {
                 id: 1,

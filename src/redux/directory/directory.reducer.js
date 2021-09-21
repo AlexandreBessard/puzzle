@@ -6,7 +6,7 @@ const INITIAL_STATE = {
         image: image1,
         size: 'small',
         id: 1,
-        linkUrl: 'shop' 
+        linkUrl: 'shop/puzzle' 
     }]
 };
 
