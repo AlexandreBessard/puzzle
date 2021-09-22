@@ -1,9 +1,5 @@
 import { createSelector } from "reselect";
 
-const COLLECTION_ID_MAP = {
-    puzzle: 1
-};
-
 //Retrieve shop from the store
 const selectShop = state => state.shop;
 
@@ -15,13 +11,20 @@ export const selectCollections = createSelector(
 
 export const selectCollectionsForPreview = createSelector(
     [selectCollections],
-    collections => Object.keys(collections).map(key => collections[key])
+    collections => 
+    Object.keys(collections).map(key => collections[key])
 );
+
+export const selectCollectionForPreview = createSelector(
+    [selectCollections],
+    //set properties as keys from object (puzzle) 
+    //and convert into an array
+    collections => 
+    Object.keys(collections).map(key => collections[key])
+)
   
-export const selectCollection = collectionUrlParam => 
-        createSelector(
-            [selectCollections],
-            collections => collections.find(
-                collection => collection.id === COLLECTION_ID_MAP[collectionUrlParam]
-            )
-        );
+export const selectCollection = collectionUrlParam => createSelector(
+    [selectCollections],
+    collections => collections[collectionUrlParam]
+);
+        
